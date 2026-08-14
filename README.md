@@ -5,6 +5,16 @@ An end-to-end retail demand forecasting project that uses **Python, Machine Lear
 The project covers the complete workflow from **data preparation and exploratory analysis to machine learning, model evaluation, demand forecasting, inventory optimization, and business reporting**.
 
 ---
+## 📈 Key Results
+
+- **Best Overall Model:** LightGBM
+- **R² Score:** 0.6564
+- **RMSE:** 2.0222
+- **Best MAE:** XGBoost — 1.0333
+- **Products Forecasted:** ~3,049
+- **Store Analyzed:** CA_1
+- **Models Compared:** 5
+- **Dashboard Pages:** 2
 
 ## 📌 Project Overview
 
