@@ -292,6 +292,7 @@ Contains the evaluation results of all trained models.
 The final results are presented through a **two-page Power BI dashboard**.
 
 ## Page 1 — Inventory Overview
+![Inventory Overview](reports/dashboard_page1.png)
 
 The dashboard provides a high-level business view with:
 
@@ -309,6 +310,7 @@ This page focuses on turning model predictions into understandable inventory ins
 ---
 
 ## Page 2 — Model & Demand Analysis
+![Model & Demand Analysis](reports/dashboard_page2.png)
 
 The second page focuses on model performance and deeper demand analysis.
 
